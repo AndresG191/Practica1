@@ -233,6 +233,30 @@ MonoBehaviour:
   - name: albertopablon
     comentario: Hola como estas
     imagen: {fileID: 21300000, guid: 4218e0a7b186e6f47a173599e5c69860, type: 3}
+  - name: andres
+    comentario: aca muy bien, que has hecho
+    imagen: {fileID: 21300000, guid: 0c254624f5c1e674dbfa178d4c9a0d87, type: 3}
+  - name: albertopablon
+    comentario: he estado jugando futbolsito
+    imagen: {fileID: 21300000, guid: 4218e0a7b186e6f47a173599e5c69860, type: 3}
+  - name: andres
+    comentario: ala que bueno, hay que jugar
+    imagen: {fileID: 21300000, guid: 0c254624f5c1e674dbfa178d4c9a0d87, type: 3}
+  - name: albertopablon
+    comentario: si bro, pero vamos primero a invitar a mas gente
+    imagen: {fileID: 21300000, guid: 4218e0a7b186e6f47a173599e5c69860, type: 3}
+  - name: andres
+    comentario: okey me parece bien
+    imagen: {fileID: 21300000, guid: 0c254624f5c1e674dbfa178d4c9a0d87, type: 3}
+  - name: albertopablon
+    comentario: "mira all\xE1 estan los demas"
+    imagen: {fileID: 21300000, guid: 4218e0a7b186e6f47a173599e5c69860, type: 3}
+  - name: andres
+    comentario: hay que invitarlos
+    imagen: {fileID: 21300000, guid: 0c254624f5c1e674dbfa178d4c9a0d87, type: 3}
+  - name: albertopablon
+    comentario: si, vamos...
+    imagen: {fileID: 21300000, guid: 4218e0a7b186e6f47a173599e5c69860, type: 3}
   nombre: {fileID: 1222072316}
   comentario: {fileID: 2146150852}
   foto: {fileID: 154672545}
@@ -853,7 +877,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -310, y: -46}
+  m_AnchoredPosition: {x: -327, y: -29}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2146150852
@@ -939,7 +963,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -185.27396, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
